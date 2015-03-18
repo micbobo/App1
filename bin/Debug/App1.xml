@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+App1
+</name>
+</assembly>
+<members>
+<member name="M:App1.ServiceReference1.Service1Client.ConfigureEndpoint(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Description.ClientCredentials)">
+	<summary>
+ Implement this partial method to configure the service endpoint.
+ </summary>
+	<param name="serviceEndpoint">The endpoint to configure</param>
+	<param name="clientCredentials">The client credentials</param>
+</member><member name="M:App1.App.OnLaunched(Windows.ApplicationModel.Activation.LaunchActivatedEventArgs)">
+	<summary>
+ Invoqué lorsque l'application est lancée normalement par l'utilisateur final.  D'autres points d'entrée
+ sont utilisés lorsque l'application est lancée pour ouvrir un fichier spécifique, pour afficher
+ des résultats de recherche, etc.
+ </summary>
+	<param name="e">Détails concernant la requête et le processus de lancement.</param>
+</member><member name="M:App1.App.OnNavigationFailed(System.Object,Windows.UI.Xaml.Navigation.NavigationFailedEventArgs)">
+	<summary>
+ Appelé lorsque la navigation vers une page donnée échoue
+ </summary>
+	<param name="sender">Frame à l'origine de l'échec de navigation.</param>
+	<param name="e">Détails relatifs à l'échec de navigation</param>
+</member><member name="M:App1.App.OnSuspending(System.Object,Windows.ApplicationModel.SuspendingEventArgs)">
+	<summary>
+ Appelé lorsque l'exécution de l'application est suspendue.  L'état de l'application est enregistré
+ sans savoir si l'application pourra se fermer ou reprendre sans endommager
+ le contenu de la mémoire.
+ </summary>
+	<param name="sender">Source de la requête de suspension.</param>
+	<param name="e">Détails de la requête de suspension.</param>
+</member><member name="T:App1.App">
+	<summary>
+ Fournit un comportement spécifique à l'application afin de compléter la classe Application par défaut.
+ </summary>
+</member><member name="T:App1.MainPage">
+	<summary>
+ Une page vide peut être utilisée seule ou constituer une page de destination au sein d'un frame.
+ </summary>
+</member>
+</members>
+</doc>

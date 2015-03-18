@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BELL-SEBAS</Machine>
+    <WindowsUser>sebastien</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ff889044-7d54-476b-a2d0-887b4908d6af</PackageIdentityName>
+    <RegisteredManifestChecksum>7E2BA6A003A6C0DF5479E86EC1E69D7C28B7C4EEFD6CAC9230BDED2777B6DD51</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ff889044-7d54-476b-a2d0-887b4908d6af_1.0.0.0_neutral__dg5a636vqxxxe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ff889044-7d54-476b-a2d0-887b4908d6af_dg5a636vqxxxe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ff889044-7d54-476b-a2d0-887b4908d6af</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sebastien</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-17T14:48:23.996</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-03-17T14:48:23.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-25T02:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-25T02:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-25T02:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-25T02:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-17T13:25:53.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-17T14:48:23.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-17T14:48:23.873</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
